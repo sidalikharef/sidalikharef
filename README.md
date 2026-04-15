@@ -9,7 +9,7 @@ console.log("Full-Stack Engineer | Backend Specialist | Prisma Architect");
 
 ## 🚀 About Me
 
-Full-stack developer with 6+ years of experience (since 2018) focused on building scalable backend systems and structured full-stack applications.
+Full-stack developer with 8+ years of experience (since 2018) focused on building scalable backend systems and structured full-stack applications.
 
 My strength is not just coding — it's designing systems that make sense long-term: clean schemas, predictable APIs, and architectures that don't collapse under growth.
 
