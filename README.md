@@ -236,7 +236,7 @@ while (system.isAlive()) {
 ## 🎓 Education
 
 **Master 2 — Project Management & Software Engineering**
-Completed: 2025
+Completed: 2022
 
 **Computer Science / Software Development Background**
 Java OOP, ASP.NET/.NET, PHP, Visual Basic-era legacy experience, and modern full-stack development.
