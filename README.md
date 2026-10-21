@@ -77,7 +77,7 @@ Explore more projects and case studies at **[sidalikharef.cc](https://sidalikhar
 ## Experience
 
 ### Belsons Technologies — Software Engineer
-*October 2026 – Present · Remote*
+*October 2026 – Present · Dubai, United Arab Emirates · Remote*
 
 Contributing to an enterprise ERP platform covering CRM, sales, finance, property management, and business operations.
 
@@ -89,7 +89,7 @@ Contributing to an enterprise ERP platform covering CRM, sales, finance, propert
 **Stack:** Python, Django, Django REST Framework, Angular, TypeScript, PostgreSQL, Celery, Docker, GitLab CI/CD
 
 ### VistroLink Group — Co-Founder & Senior Full-Stack Software Engineer
-*May 2026 – Present*
+*May 2026 – Present · Poland · Hybrid*
 
 Co-building a software company focused on custom software, SaaS platforms, mobile applications, backend systems, and business automation.
 
@@ -102,7 +102,7 @@ Co-building a software company focused on custom software, SaaS platforms, mobil
 **Stack:** React, Next.js, TypeScript, React Native, Expo, Node.js, Go, PostgreSQL, Prisma, Docker, Podman, Cloudflare
 
 ### Independent Contractor — Full-Stack Developer & SaaS Engineer
-*October 2019 – Present · Remote*
+*October 2019 – Present · Skikda, Algeria · Remote*
 
 Delivering software for clients from requirements and implementation through deployment and ongoing maintenance.
 
@@ -115,7 +115,7 @@ Delivering software for clients from requirements and implementation through dep
 **Stack:** React, Next.js, TypeScript, Node.js, Go, React Native, Expo, PostgreSQL, MongoDB, Prisma, Docker
 
 ### The Web Is Mine — Full-Stack, Mobile & Backend Developer
-*January 2024 – June 2026 · Freelance*
+*January 2024 – June 2026 · Algeria · Freelance*
 
 Developed web, mobile, and backend solutions for clients across automotive platforms, inventory management, dashboards, and business applications.
 
@@ -128,7 +128,7 @@ Developed web, mobile, and backend solutions for clients across automotive platf
 **Stack:** React, Next.js, React Native, Node.js, Express.js, PostgreSQL, Prisma, Turborepo, Cloudflare R2, WordPress, WooCommerce
 
 ### Studio rightup — Full-Stack Engineer
-*September 2022 – September 2023*
+*September 2022 – September 2023 · Skikda, Algeria · Hybrid*
 
 Contributed to a modular CRM/ERP platform supporting configurable business processes.
 
