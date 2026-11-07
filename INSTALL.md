@@ -1,10 +1,22 @@
-# Installation
+# Installation — GitHub Profile README
 
-1. Create or open the special GitHub profile repository `sidalikharef/sidalikharef`.
-2. Copy `README.md` and the entire `assets/` folder to the repository root.
-3. Commit both. The images use relative paths, so they will load directly on GitHub.
-4. Optional: replace or remove external shields.io button images if you want a 100% locally-hosted image design.
+This design is built for the GitHub repository `sidalikharef/sidalikharef`.
 
-GitHub does not allow arbitrary CSS or custom web fonts in README markdown. The typography is baked into the SVG visual assets and uses a sans-serif fallback. Collapsible sections and tables are native GitHub-flavored Markdown/HTML.
+1. Copy `README.md` to the root of the repository.
+2. Copy the entire `assets/` folder alongside it (all PNG files).
+3. Commit and push both together:
 
-Everything essential is visible without external stats providers or the GitSkins website.
+```bash
+cd ~/projects/personal/sidalikharef
+cp /path/to/sidali-readme/README.md .
+cp -r /path/to/sidali-readme/assets .
+git add README.md assets/
+git commit -m "Style GitHub profile to match portfolio"
+git push origin master
+```
+
+Do not upload only the README: it references `assets/hero.png` and five section banners.
+
+The portrait is extracted from the website screenshot you provided. For better image quality, replace `assets/hero.png` later with a regenerated hero built from your original high-resolution portrait.
+
+GitHub READMEs cannot use custom CSS or run scripts. The branded headers are images so your design renders on GitHub, while the content remains native Markdown and accessible.
