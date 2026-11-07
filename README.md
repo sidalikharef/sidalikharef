@@ -1,160 +1,213 @@
-# Hi, I'm Sid-Ali Kharef 👋
+<!-- GitHub profile README | sidalikharef/sidalikharef -->
+<!-- Original artwork in assets/ is local, so the main design does not rely on GitSkins or another image API. -->
 
-### Product & Systems Engineer · Full-Stack, Mobile & Backend
+<div align="center">
+  <a href="https://sidalikharef.cc/"><img src="./assets/hero.svg" alt="Sid-Ali Kharef — Product and Systems Engineer" width="100%" /></a>
+  <br/><br/>
+  <a href="https://sidalikharef.cc/"><img src="https://img.shields.io/badge/PORTFOLIO-142019?style=for-the-badge&logo=googlechrome&logoColor=A7F3B2" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sid-ali-kharef-b5195419b/"><img src="https://img.shields.io/badge/LINKEDIN-142019?style=for-the-badge&logo=linkedin&logoColor=A7F3B2" alt="LinkedIn" /></a>
+  <a href="mailto:sidalikharef@gmail.com"><img src="https://img.shields.io/badge/EMAIL-142019?style=for-the-badge&logo=gmail&logoColor=A7F3B2" alt="Email" /></a>
+  <a href="https://github.com/sidalikharef?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-142019?style=for-the-badge&logo=github&logoColor=A7F3B2" alt="Repositories" /></a>
+  <br/><br/>
+  <strong>6+ years engineering software &nbsp; / &nbsp; 10+ systems delivered &nbsp; / &nbsp; Remote worldwide</strong>
+  <br/><br/>
+  <sub>Frontend ↔ API ↔ Data ↔ Automation ↔ Infrastructure</sub>
+</div>
 
-I build connected software systems: backend APIs, mobile applications, dashboards, automation, and the infrastructure that keeps them running.
+<br/>
 
-My work spans SaaS, CRM/ERP, fintech workflows, automotive platforms, and business operations—from data modeling and architecture to implementation, deployment, and maintenance.
+<a id="about"></a>
+<img src="./assets/section-01.svg" width="100%" alt="01 About" />
 
-[Portfolio](https://sidalikharef.cc/) · [LinkedIn](https://www.linkedin.com/in/sid-ali-kharef-b5195419b/) · [Email](mailto:sidalikharef@gmail.com)
+I am **Sid-Ali Kharef**, a software engineer based in **Algeria** working with international product teams. I design and ship connected software: backend APIs, web interfaces, mobile apps, operational dashboards, and the infrastructure behind them.
 
----
+My focus is **systems thinking**: well-defined data models, clear security boundaries, maintainable integration layers, and end-to-end ownership from product requirements to production support.
 
-## About Me
+- **Currently:** Software Engineer at **Belsons Technologies**; Co-Founder & Senior Full-Stack Software Engineer at **VistroLink Group**.
+- **Background:** Independent contracting since 2019 across SaaS, automotive, fintech, CRM/ERP, commerce, and workflow automation.
+- **Availability:** Open to remote engineering roles and selected consulting engagements.
+- **Approach:** Solve the product problem, simplify the architecture, then ship and operate reliably.
 
-- Software engineer with 6+ years of freelance, client, and product development experience.
-- Co-Founder & Senior Full-Stack Software Engineer at **VistroLink Group**.
-- Software Engineer at **Belsons Technologies**, contributing to an enterprise ERP platform.
-- Based in **Algeria**, working with international teams.
-- Open to remote engineering roles and selected consulting engagements.
+<a id="capabilities"></a>
+<img src="./assets/section-02.svg" width="100%" alt="02 Capabilities" />
 
-I connect product requirements with practical engineering: clear API boundaries, maintainable data models, reliable integrations, and deployment workflows that support ongoing delivery.
+| Systems & APIs | Web & Mobile | Data & Operations |
+|:---|:---|:---|
+| Authentication, authorization and RBAC | React and Next.js applications | PostgreSQL schema design |
+| Go, Node.js and Django services | React Native and Expo | Prisma and migration workflows |
+| REST integrations and business logic | Internal portals and ERP dashboards | Background jobs and Celery |
+| Multi-role and tenant-aware workflows | Accessible, responsive UI | CSV/SFTP synchronization |
+| API contracts and testable boundaries | API-driven onboarding flows | Docker, storage, CI/CD and Cloudflare |
 
-## What I Build
+<a id="systems"></a>
+<img src="./assets/section-03.svg" width="100%" alt="03 Selected Systems" />
 
-- **Backend systems:** APIs, authentication, authorization, database models, and business logic.
-- **Web applications:** SaaS products, CRM/ERP modules, admin dashboards, and customer portals.
-- **Mobile applications:** React Native and Expo apps connected to APIs, storage, and notifications.
-- **Automation:** Inventory synchronization, CSV/SFTP imports, background jobs, and third-party integrations.
-- **Infrastructure:** Containerized services, CI/CD workflows, Cloudflare configuration, and cloud storage integrations.
+<img src="./assets/systems.svg" width="100%" alt="Featured systems: DealerLink, NovaBank, Nebula and custom ERP" />
 
-## Technical Stack
+<details open>
+<summary><b>CarGrid / DealerLink — Automotive marketplace & dealer management</b></summary>
+<br/>
+Built web, mobile and backend workflows for inventory, vehicle listings, VIN-based valuation, media handling, saved listings, offers and role-specific buyer, seller, employee and administrator experiences.
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Go, Node.js, Express.js, AdonisJS, Python, Django, Django REST Framework |
-| Web | TypeScript, React, Next.js, Angular, Tailwind CSS |
-| Mobile | React Native, Expo |
-| Data | PostgreSQL, Prisma ORM, MongoDB, SQLite, Redis |
-| Infrastructure | Docker, Podman, Cloudflare, Cloudflare R2, S3-compatible storage |
-| Development | Git, GitHub, GitLab CI/CD, Turborepo, pnpm workspaces |
-| Automation & Integrations | REST APIs, Celery, email services, notifications, CSV/SFTP pipelines |
-| Commerce & CMS | WordPress, WooCommerce, Strapi, PHP |
+**Engineering:** Next.js · React Native / Expo · Express.js · Prisma ORM · PostgreSQL · Cloudflare R2
+</details>
 
-## Selected Work
+<details open>
+<summary><b>NovaBank / JiPay — Digital wallet & fintech MVP</b></summary>
+<br/>
+Designed interconnected mobile, API and administration workflows for account onboarding, KYC states, wallet operations, payment requests, QR/link payment flows, notifications and role-based access. **Status: MVP; not a claim of a live regulated banking product.**
 
-### CarGrid / DealerLink
-**Automotive marketplace and dealer management**
+**Engineering:** Go · React Native / Expo · Next.js · PostgreSQL
+</details>
 
-Developed web, mobile, and backend features covering vehicle inventory, listings, evaluations, media handling, and role-based workflows for buyers, sellers, employees, and administrators.
+<details open>
+<summary><b>Nebula App — Mobile SaaS onboarding</b></summary>
+<br/>
+Delivered authentication, verification, reusable form flows, validation, API-backed account workflows, and connected dashboard interfaces.
 
-**Stack:** Next.js, React Native, Express.js, Prisma, PostgreSQL, Cloudflare R2
+**Engineering:** React Native · Expo · Next.js · TypeScript
+</details>
 
-### NovaBank / Jipay MVP
-**Digital wallet and fintech workflows**
+<details open>
+<summary><b>Custom ERP Platform — Modular business system</b></summary>
+<br/>
+Architecting an ERP with shared web/mobile clients, domain-based API services, tenant-aware roles, relational data and OpenAPI contracts. Current implementation includes authentication plus selected read-only CRM and sales slices; broader finance/HR/workflow scope remains in development.
 
-Designed and developed connected mobile, backend, and administration workflows for authentication, KYC onboarding, wallets, payment requests, QR/link payments, notifications, and role-based access.
+**Engineering:** Go / Gin · PostgreSQL · pgx / sqlc · Next.js · React Native / Expo · OpenAPI · pnpm workspaces · Docker Compose
+</details>
 
-**Stack:** React Native, Expo, Go, Next.js, PostgreSQL  
-**Stage:** MVP
+<details>
+<summary><b>Prêt Auto Québec — Automotive inventory automation</b></summary>
+<br/>
+Automated imports from seven external inventory sources using CSV/SFTP feeds, batch processing, WooCommerce product and attribute synchronization, media preparation, and AI-assisted vehicle descriptions.
 
-### Nebula App
-**Mobile onboarding and dashboard interfaces**
+**Engineering:** WordPress · WooCommerce · PHP · SFTP · external APIs
+</details>
 
-Developed mobile screens and dashboard features for authentication, signup, verification, form validation, and API integration.
+<details>
+<summary><b>Xpertise360 — Headless learning content platform</b></summary>
+<br/>
+Implemented structured content models, Strapi-backed APIs, content routing and integration workflows for an online education and coaching platform.
 
-**Stack:** React Native, Expo, Next.js, TypeScript
+**Engineering:** Next.js · Strapi · headless CMS · REST APIs
+</details>
 
-### Automotive Inventory Automation
-**Data synchronization for WordPress / WooCommerce**
+<details>
+<summary><b>Other delivered client systems</b></summary>
+<br/>
 
-Implemented inventory imports and updates using CSV/SFTP feeds, batch processing, product attributes, media processing, and AI-assisted vehicle descriptions.
+- **VR Secur+** — warranty information and lead capture workflows with Next.js / Express.
+- **Dupont & Dupont** — structured bakery product catalog and backend management foundation.
+- **Entretien Paysager Siana** — service intake and CRM-ready lead routing.
+- **OrderCube** — WordPress/PHP production fixes across email, translations, SEO and custom logic.
 
-**Stack:** PHP, WordPress, WooCommerce, SFTP, external APIs
+</details>
 
-Explore more projects and case studies at **[sidalikharef.cc](https://sidalikharef.cc/)**.
+**Full case studies, architecture notes and project galleries:** [sidalikharef.cc](https://sidalikharef.cc/)
 
-## Experience
+<a id="opensource"></a>
+<img src="./assets/section-04.svg" width="100%" alt="04 Open Source" />
 
-### Belsons Technologies — Software Engineer
-*October 2026 – Present · Dubai, United Arab Emirates · Remote*
+| Repository | What it explores | Links |
+|:---|:---|:---|
+| **Sidali Vision** | Local-first computer vision: detection, tracking and annotated media workflows | [Repository](https://github.com/sidalikharef/Sidali-Vision) |
+| **Sidali DitherLab** | Browser-based image dithering, palettes, comparisons and exports | [Repository](https://github.com/sidalikharef/js-image-dithering-converter-and-compression) · [Live demo](https://ditterlab.sidalikharef.cc/) |
+| **GoRemote** | Desktop / networked remote-control and device workflows | [Repository](https://github.com/sidalikharef/goremote) |
+| **Seeker** | Developer-focused open-source tooling | [Repository](https://github.com/sidalikharef/Seeker) |
 
-Contributing to an enterprise ERP platform covering CRM, sales, finance, property management, and business operations.
+> Open-source repositories are experiments and evolving tools; status and supported features are documented in their individual READMEs.
 
-- Develop backend services and REST APIs with Django and Django REST Framework.
-- Implement frontend features with Angular and TypeScript.
-- Work on PostgreSQL data models, Celery background tasks, and role-based business workflows.
-- Contribute to technical design, testing, debugging, and maintenance.
+<a id="stack"></a>
+<img src="./assets/section-05.svg" width="100%" alt="05 Toolkit" />
 
-**Stack:** Python, Django, Django REST Framework, Angular, TypeScript, PostgreSQL, Celery, Docker, GitLab CI/CD
+<img src="./assets/stack.svg" width="100%" alt="Technology stack by discipline" />
 
-### VistroLink Group — Co-Founder & Senior Full-Stack Software Engineer
-*May 2026 – Present · Poland · Hybrid*
+<details>
+<summary><b>Expand the full technical stack</b></summary>
+<br/>
 
-Co-building a software company focused on custom software, SaaS platforms, mobile applications, backend systems, and business automation.
+| Domain | Technologies and practices |
+|:---|:---|
+| **Backend** | Go, Gin, Node.js, Express.js, AdonisJS, Python, Django, Django REST Framework, REST APIs, RBAC |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Angular, Tailwind CSS, TanStack Query, Zustand |
+| **Mobile & desktop** | React Native, Expo, Electron, Tauri |
+| **Database & cache** | PostgreSQL, Prisma ORM, pgx, sqlc, MongoDB, Redis, SQLite |
+| **Architecture** | Modular services, typed contracts, monorepos, Turborepo, pnpm workspaces, API integrations |
+| **Delivery** | Docker, Podman, Docker Compose, Cloudflare, Cloudflare R2, S3-compatible storage, GitHub, GitLab CI/CD |
+| **Automation** | Celery, CSV/SFTP pipelines, background processing, notifications, image/media workflows |
+| **Commerce & CMS** | WordPress, WooCommerce, Strapi, PHP |
 
-- Architect and develop web applications, backend services, and REST APIs.
-- Build React Native and Expo applications connected to backend systems.
-- Implement database schemas, authentication, authorization, and third-party integrations.
-- Develop dashboards, reusable components, and automated business workflows.
-- Configure containerized deployments, Cloudflare services, and cloud storage integrations.
+</details>
 
-**Stack:** React, Next.js, TypeScript, React Native, Expo, Node.js, Go, PostgreSQL, Prisma, Docker, Podman, Cloudflare
+<a id="experience"></a>
+<img src="./assets/section-06.svg" width="100%" alt="06 Experience" />
 
-### Independent Contractor — Full-Stack Developer & SaaS Engineer
-*October 2019 – Present · Skikda, Algeria · Remote*
+**Belsons Technologies** — Software Engineer  
+`Oct 2026 – Present` · Dubai, UAE · Remote
 
-Delivering software for clients from requirements and implementation through deployment and ongoing maintenance.
+Working on an enterprise ERP spanning CRM, sales, finance, property management and business operations. Developing Django REST APIs, Angular frontends, PostgreSQL models, Celery tasks, permissions and operational workflows.  
+`Python` `Django` `DRF` `Angular` `PostgreSQL` `Celery` `Docker` `GitLab`
 
-- Build web applications, SaaS platforms, backend APIs, and administrative dashboards.
-- Develop mobile features and backend-connected desktop tools.
-- Design database schemas and implement authentication and role-based access.
-- Automate data imports, inventory synchronization, notifications, and integrations.
-- Work directly with clients on requirements, delivery, debugging, and production support.
+**VistroLink Group** — Co-Founder & Senior Full-Stack Software Engineer  
+`May 2026 – Present` · Poland · Hybrid
 
-**Stack:** React, Next.js, TypeScript, Node.js, Go, React Native, Expo, PostgreSQL, MongoDB, Prisma, Docker
+Co-building custom software and SaaS products, from architecture and web/mobile implementation through APIs, authentication, database design, workflow automation, cloud integrations and deployment.  
+`React` `Next.js` `TypeScript` `React Native` `Expo` `Go` `Node.js` `Prisma` `Docker`
 
-### The Web Is Mine — Full-Stack, Mobile & Backend Developer
-*January 2024 – June 2026 · Algeria · Freelance*
+**Independent Contractor** — Full-Stack Developer & SaaS Engineer  
+`Oct 2019 – Present` · Algeria · Remote
 
-Developed web, mobile, and backend solutions for clients across automotive platforms, inventory management, dashboards, and business applications.
+End-to-end software delivery for international clients: requirements, SaaS platforms, APIs, dashboards, desktop/mobile features, data pipelines, troubleshooting and ongoing production support.  
+`React` `Next.js` `Node.js` `Go` `Expo` `PostgreSQL` `MongoDB` `Prisma`
 
-- Built React Native applications, React/Next.js interfaces, and Express.js APIs.
-- Designed PostgreSQL models and Prisma data-access layers.
-- Implemented authentication, two-factor authentication, password recovery, and role-based access.
-- Integrated external APIs, cloud storage, and inventory synchronization workflows.
-- Worked with Turborepo monorepos and custom WordPress/WooCommerce functionality.
+**The Web Is Mine** — Full-Stack, Mobile & Backend Developer  
+`Jan 2024 – Jun 2026` · Algeria · Freelance
 
-**Stack:** React, Next.js, React Native, Node.js, Express.js, PostgreSQL, Prisma, Turborepo, Cloudflare R2, WordPress, WooCommerce
+Automotive and business applications, 2FA, role-based access, Prisma/PostgreSQL schemas, R2 storage, integrations, monorepos and WooCommerce synchronization.  
+`Next.js` `React Native` `Express` `Prisma` `Turborepo` `Cloudflare R2`
 
-### Studio rightup — Full-Stack Engineer
-*September 2022 – September 2023 · Skikda, Algeria · Hybrid*
+**Studio rightup** — Full-Stack Engineer  
+`Sep 2022 – Sep 2023` · Skikda, Algeria · Hybrid
 
-Contributed to a modular CRM/ERP platform supporting configurable business processes.
+Modular CRM/ERP interfaces, configurable forms and business processes, backend APIs and third-party integrations, with a focus on multi-tenant product workflows.  
+`React` `Next.js` `AdonisJS` `MongoDB` `KrakenD`
 
-- Developed interfaces, forms, and business workflows.
-- Contributed to backend APIs and third-party integrations.
-- Worked on features supporting modular and multi-tenant architecture.
-- Participated in testing, debugging, maintenance, and collaborative feature delivery.
+<a id="engineering"></a>
+<img src="./assets/section-07.svg" width="100%" alt="07 Engineering Approach" />
 
-**Stack:** React, Next.js, AdonisJS, MongoDB, KrakenD  
-**Recommendation:** Received a professional recommendation from company leadership.
+```text
+             PRODUCT REQUIREMENTS
+                      │
+        ┌─────────────┼──────────────┐
+        ▼             ▼              ▼
+   WEB / MOBILE    API CONTRACTS   OPERATIONS
+        │             │              │
+        └──────────► DOMAIN ◄────────┘
+                      │
+                 DATA MODEL
+                      │
+              JOBS / INTEGRATIONS
+                      │
+              DEPLOY & OBSERVE
+```
 
-## Engineering Approach
+1. **Model the domain first.** Keep relational data, business rules, and service boundaries explicit.
+2. **Secure the workflows.** Build authentication, authorization and tenant context into the design.
+3. **Integrate for failure.** Make background jobs, external APIs and synchronization observable and retryable.
+4. **Deliver end-to-end.** Treat deployment, testability, maintenance and developer experience as product responsibilities.
 
-- Model data and business rules before adding complexity.
-- Keep APIs explicit and permissions clear.
-- Design background jobs and integrations for retries and failures.
-- Build reusable components around actual product needs.
-- Treat deployment, observability, and maintenance as part of delivery.
+**Education:** Master 2 — Software Engineering & Project Management (completed November 2025).
 
-## Education
+<a id="connect"></a>
+<img src="./assets/section-08.svg" width="100%" alt="08 Connect" />
 
-**Master 2 — Software Engineering & Project Management**  
-*Completed November 2025*
-
-## Contact
-
-- **Portfolio:** [sidalikharef.cc](https://sidalikharef.cc/)
-- **LinkedIn:** [Sid-Ali Kharef](https://www.linkedin.com/in/sid-ali-kharef-b5195419b/)
-- **Email:** [sidalikharef@gmail.com](mailto:sidalikharef@gmail.com)
+<div align="center">
+  <h3>Have a product to ship or a system to improve?</h3>
+  <p>I’m interested in remote product/systems engineering roles and selected consulting work.</p>
+  <a href="https://sidalikharef.cc/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sid-ali-kharef-b5195419b/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:sidalikharef@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/sidalikharef">GitHub</a>
+  <br/><br/>
+  <sub>© Sid-Ali Kharef · Based in Algeria · Working worldwide</sub>
+</div>
